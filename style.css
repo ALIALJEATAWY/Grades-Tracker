@@ -1,0 +1,31 @@
+.header-h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(0, 3, 20);
+    color: rgb(255, 255, 255);
+    height: 80px;
+    margin: 0;
+}
+
+
+#gradesStudent{
+    border: 10px;
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 200px;
+    right: 1000px;
+
+
+}
+
+
+
+.img1{
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    
+    
+}
